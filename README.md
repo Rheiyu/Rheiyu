@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hola, mi nombre es Pili aka Rheiyu 👋
+
+He aparecido por aquí debido a que he comenzado a aprender a programar como hobby.
+Para ello, me he registrado en el [curso CS50](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science) impartido por la universidad de Harvard de forma online y gratuita. 
+En el primer proyecto te piden hacer un pequeño programa con Scratch y para presentarlo necesitas tener una cuenta en Github. 
+
+Paralelamente estoy aprendiendo por mi cuenta HTML, CSS, Javascript y Python.
+
+Espero que este primer paso me lleve a un gran camino de aprendizaje por este mundo.
 
 <!--
 **Rheiyu/Rheiyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
